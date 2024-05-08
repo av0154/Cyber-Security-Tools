@@ -1,0 +1,2 @@
+Use this command to compile and check for errors : g++ code.cpp
+This command to run the code : ./a.out
